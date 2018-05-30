@@ -2,7 +2,11 @@
 [![Gitter](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-2DCC76.svg?style=flat)](https://gitter.im/supamii/ah-swagger-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # ah-swagger-plugin
+
 Generate Swagger-UI documentation from Actionhero
+
+This project was forked from [supamii/ah-swagger-plugin](https://github.com/supamii/ah-swagger-plugin) as it is now abandoned,
+issues and pull requests should now be made here.
 
 ***
 **[NPM](https://www.npmjs.com/package/ah-swagger-plugin) | [GitHub](https://github.com/supamii/ah-swagger-plugin) | [Chat](https://gitter.im/supamii/ah-swagger-plugin)**
